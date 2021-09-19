@@ -1,4 +1,4 @@
-# Vaccination App
+# Goodread Clone App
 
 Demo Application Using Node.js and SQLite3
 
