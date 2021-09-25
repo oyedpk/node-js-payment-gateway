@@ -1,4 +1,4 @@
-# Goodread Clone App
+# Coinmarketcap Clone App
 
 Demo Application Using Node.js and SQLite3
 
@@ -18,5 +18,4 @@ node server.js
 Open the browser and enter http://localhost:3000
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
