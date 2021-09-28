@@ -1,4 +1,4 @@
-# Coinmarketcap Clone App
+# OLX Clone App
 
 Demo Application Using Node.js and SQLite3
 
